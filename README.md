@@ -8,7 +8,7 @@
     Nasıl Oynanır?
 
         Start butonuyla rastgele bir RGB renk kodu üretilir,
-        kutulardan birisi bu renk olmak üzere 9 farklı renkle renklendirilir.
+        kutular birisi bu renk olmak üzere 9 farklı renkle renklendirilir.
         
         Kodu verilen renk 9 renk arasından tahmin edilmeye çalışılır.
         
