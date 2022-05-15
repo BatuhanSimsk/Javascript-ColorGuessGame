@@ -13,6 +13,6 @@
         Tekrar oynanmak istenirse Replay butonuyla yeniden oynanır. 
       
   
-  
+  ![image](Screenshot.png)
 
 
