@@ -3,7 +3,7 @@
 <h3 align="center" color="Darkblue">Batuhan Şimşek</h3>
 <h4 align="center" color="Darkblue">20360859055</h4>
 
-<h4 align="center" ><a href="http://colorguessgame.eu5.org" >Oynamak için tıklayın.</a></h6>
+<h4 align="center" ><a href="https://batuhansimsk.github.io/Javascript-ColorGuessGame/" >Oynamak için tıklayın.</a></h6>
 
     Nasıl Oynanır?
 
@@ -18,5 +18,6 @@
       
   
   ![image](Screenshot.png)
+
 
 
